@@ -1,0 +1,21 @@
+* {
+  background-color: rgb(219, 219, 219);
+}
+.table {
+  font-size: 3;
+  background-color: brown;
+}
+.tea {
+  padding: 0cap;
+  margin: 0cm;
+  background-color: brown;
+}
+.now {
+    background-color: aliceblue;
+}
+.font {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.now:hover{
+    background-color: blueviolet;
+}
